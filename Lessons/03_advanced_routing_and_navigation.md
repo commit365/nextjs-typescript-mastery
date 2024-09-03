@@ -209,3 +209,5 @@ You can create localized routes by using the locale in your links. The `Link` co
 ## Conclusion
 
 In this lesson, you explored advanced routing and navigation techniques in Next.js, including dynamic routes, nested routes, programmatic navigation, custom link components, and internationalized routing. Mastering these concepts is essential for building complex applications that require flexible navigation and dynamic content handling. In the next lesson, we will delve into data fetching strategies to enhance your applications further.
+
+[Next Lesson](./04_data_fetching_and_state_management.md)
